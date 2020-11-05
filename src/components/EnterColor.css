@@ -1,0 +1,23 @@
+.Form {
+  display: flex;
+}
+
+.Form input {
+  height: 40px;
+  width: 250px;
+  border: 0px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  outline: none;
+  font-size: 14px;
+  background: whitesmoke;
+  padding: 1px 5px;
+}
+
+.Form input[type='text'] {
+  text-align: center;
+}
+
+.Form button {
+  display: none;
+}
