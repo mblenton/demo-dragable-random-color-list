@@ -1,4 +1,4 @@
-#Task:
+Task:
 
 Create a new project using create-react-app.
 
