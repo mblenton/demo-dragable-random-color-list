@@ -2,8 +2,6 @@ Task:
 
 Create a new project using create-react-app.
 
-Create a private GitHub repository for the task and add the "blazingedge-engineering" user as a collaborator.
-
 Push the initial commit without your changes.
 
 You can run it with npm start.
